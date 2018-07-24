@@ -1,4 +1,4 @@
-package Proxy;
+package Proxy.StaticProxy;
 
 /**
  * @Author: qixiang.shao

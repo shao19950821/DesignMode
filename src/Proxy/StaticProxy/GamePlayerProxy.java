@@ -1,4 +1,4 @@
-package Proxy;
+package Proxy.StaticProxy;
 
 /**
  * @Author: qixiang.shao
@@ -11,7 +11,9 @@ public class GamePlayerProxy implements IGamePlayer {
     private IGamePlayer gamePlayer = null;
 
     public GamePlayerProxy(IGamePlayer gamePlayer) {
-        this.gamePlayer = gamePlayer;
+        if (gamePlayer.getClass() == GamePlayer.class) {
+            this.gamePlayer = gamePlayer;
+        }
     }
 
     @Override
