@@ -12,5 +12,6 @@ public class Minister {
             Emperor emperor = Emperor.getInstance();
             emperor.say();
         }
+        33333
     }
 }
