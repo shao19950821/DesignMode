@@ -48,7 +48,6 @@ public class Car {
         this.name = name;
     }
 
-    1111
 
     public void showCar(){
         System.out.println("品牌是：" + name);

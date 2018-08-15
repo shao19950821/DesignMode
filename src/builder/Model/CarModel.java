@@ -12,5 +12,4 @@ public abstract class CarModel {
 
     private ArrayList<String> sequence = new ArrayList<>();
 
-    111
 }

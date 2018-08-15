@@ -5,42 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bac5fb6-39f4-4166-af3a-2e2ef6dc9fda" name="Default" comment="包目录重命名">
+      <change afterPath="$PROJECT_DIR$/src/factory/example1/AbstractHumanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/example1/BlackHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/example1/ConcreteHumanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/example1/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/example1/NvWa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/example1/SimpleHumanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/example1/SimpleNvWa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/example1/WhiteHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/example1/YellowHuman.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/ConcreteBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/ConcreteBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/Director.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/ICarBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/ICarBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/Model/CarModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/Model/CarModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MultiTon/Emperor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multiTon/Emperor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MultiTon/Minister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multiTon/Minister.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Proxy/DynamicProxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/DynamicProxy/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Proxy/DynamicProxy/FruitSeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/DynamicProxy/FruitSeller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Proxy/DynamicProxy/ISeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/DynamicProxy/ISeller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Proxy/DynamicProxy/TaobaoProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/DynamicProxy/TaobaoProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Proxy/StaticProxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/StaticProxy/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Proxy/StaticProxy/GamePlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/StaticProxy/GamePlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Proxy/StaticProxy/GamePlayerProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/StaticProxy/GamePlayerProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Proxy/StaticProxy/IGamePlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/StaticProxy/IGamePlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Singleton/Emperor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singleton/Emperor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Singleton/Minister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singleton/Minister.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strategy/opretator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/opretator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strategy/opretator/MinusOpretator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/opretator/MinusOpretator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strategy/opretator/Opretator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/opretator/Opretator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strategy/opretator/OpretatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/opretator/OpretatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strategy/opretator/PlusOpretator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/opretator/PlusOpretator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strategy/vip/CalPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/vip/CalPrice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strategy/vip/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/vip/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strategy/vip/GoldVip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/vip/GoldVip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strategy/vip/Orgnic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/vip/Orgnic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strategy/vip/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/vip/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strategy/vip/SuperVip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/vip/SuperVip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strategy/vip/Vip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/vip/Vip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Templet/AbstractRangeRover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/templet/AbstractRangeRover.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Templet/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/templet/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Templet/ConcreteRangeRover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/templet/ConcreteRangeRover.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Templet/PlatForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/templet/PlatForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Templet/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/templet/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Builder/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Builder/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Builder/ConcreteBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Builder/ConcreteBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Builder/Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Builder/Director.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Builder/ICarBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Builder/ICarBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Builder/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Builder/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/MultiTon/Emperor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/MultiTon/Emperor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/MultiTon/Minister.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/MultiTon/Minister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Proxy/DynamicProxy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Proxy/DynamicProxy/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Proxy/DynamicProxy/FruitSeller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Proxy/DynamicProxy/FruitSeller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Proxy/DynamicProxy/ISeller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Proxy/DynamicProxy/ISeller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Proxy/DynamicProxy/TaobaoProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Proxy/DynamicProxy/TaobaoProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Proxy/StaticProxy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Proxy/StaticProxy/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Proxy/StaticProxy/GamePlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Proxy/StaticProxy/GamePlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Proxy/StaticProxy/GamePlayerProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Proxy/StaticProxy/GamePlayerProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Proxy/StaticProxy/IGamePlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Proxy/StaticProxy/IGamePlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Singleton/Emperor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Singleton/Emperor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Singleton/Minister.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Singleton/Minister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Strategy/opretator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Strategy/opretator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Strategy/opretator/MinusOpretator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Strategy/opretator/MinusOpretator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Strategy/opretator/Opretator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Strategy/opretator/Opretator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Strategy/opretator/OpretatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Strategy/opretator/OpretatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Strategy/opretator/PlusOpretator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Strategy/opretator/PlusOpretator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Strategy/vip/CalPrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Strategy/vip/CalPrice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Strategy/vip/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Strategy/vip/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Strategy/vip/GoldVip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Strategy/vip/GoldVip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Strategy/vip/Orgnic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Strategy/vip/Orgnic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Strategy/vip/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Strategy/vip/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Strategy/vip/SuperVip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Strategy/vip/SuperVip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignMode/Strategy/vip/Vip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignMode/Strategy/vip/Vip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/builder/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/builder/Model/CarModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/Model/CarModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multiTon/Emperor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multiTon/Emperor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multiTon/Minister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multiTon/Minister.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,25 +60,25 @@
     <session id="-1813238565">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="46" />
+          <entry key="java" value="826" />
           <entry key="txt" value="96" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="46" />
+          <entry key="JAVA" value="826" />
           <entry key="PLAIN_TEXT" value="96" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="aaa" value="1" />
-          <entry key="java" value="3" />
+          <entry key="java" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="16" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -87,46 +94,97 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/multiTon/Minister.java">
+        <entry file="file://$PROJECT_DIR$/src/factory/example1/Human.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+        <entry file="file://$PROJECT_DIR$/src/factory/example1/BlackHuman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3753">
-              <caret line="171" column="69" selection-start-line="170" selection-start-column="64" selection-end-line="171" selection-end-column="69" />
+            <state relative-caret-position="432">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+              <folding>
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/proxy/DynamicProxy/Client.java">
+        <entry file="file://$PROJECT_DIR$/src/factory/example1/AbstractHumanFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/templet/AbstractRangeRover.java">
+        <entry file="file://$PROJECT_DIR$/src/factory/example1/ConcreteHumanFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-start-column="8" selection-end-column="8" />
+            <state relative-caret-position="47">
+              <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/factory/example1/SimpleHumanFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/templet/Client.java">
+        <entry file="file://$PROJECT_DIR$/src/factory/example1/SimpleNvWa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            <state relative-caret-position="356">
+              <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/factory/example1/NvWa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="22" column="27" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="22" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/builder/Model/CarModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/multiTon/Emperor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/builder/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -163,9 +221,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Strategy.java" />
-        <option value="$PROJECT_DIR$/src/Strategy/Strategy.java" />
-        <option value="$PROJECT_DIR$/src/Strategy/CalPrice.java" />
         <option value="$PROJECT_DIR$/src/Strategy/Vip.java" />
         <option value="$PROJECT_DIR$/src/Strategy/SuperVip.java" />
         <option value="$PROJECT_DIR$/src/Strategy/GoldVip.java" />
@@ -204,6 +259,19 @@
         <option value="$PROJECT_DIR$/src/Builder/Car.java" />
         <option value="$PROJECT_DIR$/src/Templet/AbstractRangeRover.java" />
         <option value="$PROJECT_DIR$/src/templet/Client.java" />
+        <option value="$PROJECT_DIR$/src/multiTon/Minister.java" />
+        <option value="$PROJECT_DIR$/src/factory/example1/WhiteHuman.java" />
+        <option value="$PROJECT_DIR$/src/factory/example1/YellowHuman.java" />
+        <option value="$PROJECT_DIR$/src/factory/example1/BlackHuman.java" />
+        <option value="$PROJECT_DIR$/src/factory/example1/Human.java" />
+        <option value="$PROJECT_DIR$/src/factory/example1/AbstractHumanFactory.java" />
+        <option value="$PROJECT_DIR$/src/factory/example1/ConcreteHumanFactory.java" />
+        <option value="$PROJECT_DIR$/src/factory/example1/NvWa.java" />
+        <option value="$PROJECT_DIR$/src/builder/Model/CarModel.java" />
+        <option value="$PROJECT_DIR$/src/multiTon/Emperor.java" />
+        <option value="$PROJECT_DIR$/src/builder/Car.java" />
+        <option value="$PROJECT_DIR$/src/factory/example1/SimpleHumanFactory.java" />
+        <option value="$PROJECT_DIR$/src/factory/example1/SimpleNvWa.java" />
       </list>
     </option>
   </component>
@@ -235,6 +303,19 @@
               <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignMode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="example1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -274,39 +355,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Proxy.staticProxy.Client" />
-      <module name="DesignMode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Proxy.staticProxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SimpleNvWa">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="proxy.DynamicProxy.Client" />
       <module name="DesignMode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="proxy.DynamicProxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strategy.opretator.Main" />
-      <module name="DesignMode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="strategy.opretator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -328,19 +383,6 @@
       </method>
     </configuration>
     <configuration name="Minister" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="singleton.Minister" />
-      <module name="DesignMode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Minister" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="multiTon.Minister" />
       <module name="DesignMode" />
       <extension name="coverage">
@@ -353,21 +395,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NvWa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factory.example1.NvWa" />
+      <module name="DesignMode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factory.example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleNvWa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factory.example1.SimpleNvWa" />
+      <module name="DesignMode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factory.example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Client" />
-      <item itemvalue="Application.Minister" />
-      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Minister (1)" />
       <item itemvalue="Application.MainTest" />
       <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.NvWa" />
+      <item itemvalue="Application.SimpleNvWa" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleNvWa" />
+        <item itemvalue="Application.NvWa" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.MainTest" />
-        <item itemvalue="Application.Minister (1)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -395,7 +462,7 @@
       <workItem from="1532016425616" duration="907000" />
       <workItem from="1532098330449" duration="16766000" />
       <workItem from="1532422516933" duration="3000" />
-      <workItem from="1534338614512" duration="594000" />
+      <workItem from="1534338614512" duration="3769000" />
     </task>
     <task id="LOCAL-00001" summary="模板方法模式(面试之小车问题)">
       <created>1534338827872</created>
@@ -408,10 +475,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37689000" />
+    <option name="totallyTimeSpent" value="40864000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="965" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="JRebel" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17521368" />
@@ -423,16 +491,16 @@
       <window_info anchor="bottom" id="SonarLint" weight="0.3298969" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection Results" weight="0.3298969" />
-      <window_info anchor="bottom" id="Run" order="0" weight="0.32971373" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" visible="true" weight="0.32875144" />
       <window_info anchor="bottom" id="JRebel remote servers log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="TODO" order="2" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="3" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.3298969" />
       <window_info anchor="bottom" id="Debug" order="4" />
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Executor" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32971373" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32875144" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Database" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -478,15 +546,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="bao'mu'lu" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Strategy.java" />
-    <entry file="file://$PROJECT_DIR$/src/strategy/opretator/Opretator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/strategy/opretator/PlusOpretator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -586,24 +645,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/multiTon/Emperor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/builder/ConcreteBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="1" lean-forward="true" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/builder/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -713,13 +758,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/multiTon/Minister.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3753">
@@ -744,10 +782,126 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/templet/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state relative-caret-position="270">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multiTon/Minister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/example1/WhiteHuman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/example1/YellowHuman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/example1/BlackHuman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/example1/AbstractHumanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/builder/Model/CarModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multiTon/Emperor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/builder/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/example1/NvWa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="22" column="27" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/example1/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/example1/ConcreteHumanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/example1/SimpleHumanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/example1/SimpleNvWa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
         </state>
       </provider>
     </entry>
